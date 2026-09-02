@@ -1,4 +1,4 @@
-# Laboratorio 01 - Estructuras de Datos: Matriz Masiva en Disco
+# Laboratorio 01 - Estructuras de Datos: Matriz Masiva en Disco - Samuel Echeverri Ortiz
 
 Este proyecto implementa la generación y lectura por bloques (streaming) de una matriz de **100,000 × 100,000** en almacenamiento secundario. 
 
